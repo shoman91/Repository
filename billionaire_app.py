@@ -2,7 +2,7 @@ import pandas as pd
 import streamlit as st
 
 #file = r'C:\Users\acer\Documents\K DOT AI\Billionaire.csv'
-
+st.header("SHOAIB MANSOOR")
 #reading the file
 df=pd.read_csv('Billionaire.csv')
 
