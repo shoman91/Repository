@@ -1,10 +1,10 @@
 import pandas as pd
 import streamlit as st
 
-file = r'C:\Users\acer\Documents\K DOT AI\Billionaire.csv'
+#file = r'C:\Users\acer\Documents\K DOT AI\Billionaire.csv'
 
 #reading the file
-df=pd.read_csv(file)
+df=pd.read_csv('Billionaire.csv')
 
 #Top Billionaire
 top_bill = df[df['Rank']==1]
