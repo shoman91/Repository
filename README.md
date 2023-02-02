@@ -1,2 +1,2 @@
-# First-Repository
+Repository
 Streamlit Project -KDOTAI
